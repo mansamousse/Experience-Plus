@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "explus:craft_transfusion_bottle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"G": {
+				"item": "minecraft:glass_bottle"
+			},
+			"L": {
+				"item": "minecraft:lapis_lazuli"
+			}
+		},
+		"pattern": [
+			"GGG",
+			"GLG",
+			"GGG"
+		],
+		"result": {
+			"item": "explus:transfusion_bottle",
+			"count": 8
+		}
+	}
+}
