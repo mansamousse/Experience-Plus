@@ -1,7 +1,8 @@
 # Experience-Plus
  
 ## Internal
-- Mirrored repository -> Have this repository mirrored to com.mojang
+- Mirrored repository Workflow:
+    - `com.mojang` files first then push successful changes to this repo 
 
  ## Current Features
 - Transfusion Bottle
