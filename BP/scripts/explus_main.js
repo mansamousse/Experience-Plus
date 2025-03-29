@@ -1,0 +1,1 @@
+import "./transfusion_bottle_component.js"

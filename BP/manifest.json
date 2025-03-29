@@ -1,0 +1,67 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Mozilla Mozarella"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.44"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			70
+		],
+		"uuid": "c283f7b7-2e8d-4178-825d-efce461a9e9b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "87f5329b-fe57-4b4d-966d-35993772d109",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/explus_main.js",
+			"uuid": "8432c002-1bda-4721-abeb-70a28a3b95e8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "da6021e2-a232-409d-8748-137a5d351ab4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server", 
+			"version": "1.17.0"
+		}
+	]
+}

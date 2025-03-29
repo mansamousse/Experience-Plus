@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Mozilla Mozarella"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.44"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			70
+		],
+		"uuid": "da6021e2-a232-409d-8748-137a5d351ab4",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "c99fc82f-e982-479c-ad4f-b66ccaf6767a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "c283f7b7-2e8d-4178-825d-efce461a9e9b",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

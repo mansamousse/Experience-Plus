@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_brewing_mix": {
+		"description": {
+			"identifier": "explus:brew_experience_bottle"
+		},
+		"tags": [
+			"brewing_stand"
+		],
+		"input": "minecraft:potion_type:awkward",
+		"reagent": "minecraft:lapis_lazuli",
+		"output": "minecraft:experience_bottle"
+	}
+}
